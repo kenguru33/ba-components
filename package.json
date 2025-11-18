@@ -13,7 +13,7 @@
     "@storybook/react": "^5.3.13",
     "babel-loader": "^8.0.6",
     "lerna": "^3.20.2",
-    "microbundle": "^0.11.0",
+    "microbundle": "^0.15.1",
     "rollup": "^1.31.1",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-filesize": "^6.2.1",
